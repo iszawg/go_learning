@@ -48,5 +48,4 @@ func main() {
 	for i := 0; i < n; i++ {
 		fmt.Printf("%d ", q[i])
 	}
-	return
 }
